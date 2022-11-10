@@ -1,0 +1,20 @@
+{
+  "name": "practiceautomation",
+  "version": "1.0.0",
+  "description": "Test Automation practice with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Test",
+    "Automation",
+    "QA",
+    "Automation"
+  ],
+  "author": "Nahuel Trovato",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^11.0.0"
+  }
+}
